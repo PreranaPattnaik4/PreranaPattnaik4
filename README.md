@@ -21,7 +21,7 @@ AI-Powered Solutions | NLP & Generative AI | Tech for Social Impact | Digital St
 ## 📫 How to reach me
 📧 contact@simplifiedcomputerscience.com  
 🌐 [simplifiedcomputerscience.com](https://www.simplifiedcomputerscience.com)  
-📱 [LinkedIn](https://www.linkedin.com/in/preranapattnaik)
+📱 [LinkedIn](https://www.linkedin.com/in/prerana-pattnaik/)
 
 ## 😄 Pronouns
 She/Her
