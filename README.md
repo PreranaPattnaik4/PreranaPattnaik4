@@ -66,7 +66,7 @@ Let’s connect and collaborate on meaningful AI projects:
 * 🌐 Website: [simplifiedcomputerscience.com](https://simplifiedcomputerscience.com)
 * 💼 LinkedIn: [linkedin.com/in/prerana-pattnaik](https://www.linkedin.com/in/prerana-pattnaik/)
 * 💻 GitHub: [github.com/PreranaPattnaik4](https://github.com/PreranaPattnaik4)
-* 📱 Mobile: +91 8073218535
+
 
 > 🚀 Always open to building **AI-powered, community-focused solutions**. Let’s grow together in tech!
 
