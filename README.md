@@ -1,11 +1,5 @@
 🌐 My AI/ML Portfolio – [Visit Here »](https://preranapattnaik4.github.io/my-portfolio/)
 
-Got it ✅ I’ll rewrite your **portfolio introduction** to align with your **new resume**. The tone will stay professional yet approachable, highlighting your achievements, projects, and future goals while keeping it reader-friendly.
-
----
-
-# 🌐 My AI/ML Portfolio – [Visit Here »](https://preranapattnaik4.github.io/my-portfolio/)
-
 Welcome to my portfolio! I'm **Prerana Kailash Pattnaik**, an **AI/ML Engineer in progress**, passionate about building real-world AI agents, contributing to open-source, and empowering communities through technology.
 
 ---
