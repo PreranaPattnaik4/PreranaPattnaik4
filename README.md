@@ -1,63 +1,91 @@
-🌐 My AI/ML Portfolio – [Visit Here »](https://preranapattnaik4.github.io/my-portfolio/)
+Prerana Kailash Pattnaik
 
-Welcome to my portfolio! I'm **Prerana Kailash Pattnaik**, an **AI/ML Engineer in progress**, passionate about building real-world AI agents, contributing to open-source, and empowering communities through technology.
+AI Engineer | Specializing in Agentic AI | Vertex AI • Gemini • Google ADK
 
----
+Welcome to my portfolio!
+I’m Prerana Kailash Pattnaik, an aspiring AI Engineer specializing in Agentic AI — passionate about building intelligent, multimodal agents that think, speak, and act with purpose.
 
-## 💡 About Me
+My focus lies in designing and deploying interactive AI systems powered by Google’s cutting-edge ecosystem — including Vertex AI, Gemini, and Google ADK (Agent Development Kit). I’m driven by the belief that the future of software will be agentic and assistive — where AI not only understands but also collaborates.
 
-I hold an **MCA in Computer Applications** and a **B.A. in Mathematics (Hons.)**, with strong foundations in AI, machine learning, and cloud technologies. My expertise lies in:
+I love experimenting with Vertex AI models, Gemini Pro, and Agent Builder, integrating them seamlessly with Firebase AI Studio to create web-based, interactive, and human-centered AI experiences. My approach blends cloud, creativity, and code, transforming abstract ideas into AI systems that understand, respond, and act intelligently.
 
-* **AI Agent Frameworks**: Google ADK (Agent Development Kit), Agent Builder, A2A Orchestration
-* **Cloud & AI Tools**: Vertex AI, Gemini API/CLI, Google AI Studio
-* **Programming & Platforms**: Python, SQL, GitHub, VS Code, Jupyter Notebook, Render
-* **AI-Assisted Development**: Gemini Code Assist, ChatGPT, GitHub Copilot
+I hold certifications in:
 
-I believe in **inclusive technology**, continuous learning, and contributing back to the open-source ecosystem.
+🧠 Artificial Intelligence Foundation – Infosys Springboard
 
----
+🧩 Build Intelligent Agents with ADK – Google Cloud Skills Boost
 
-## 🌍 Achievements & Highlights
+🔄 Deploy Multi-Agent Systems with ADK & Agent Engine – Google Cloud Skills Boost
 
-* 🏆 **Google Cloud Arcade Legend** – 1st Place | Diamond League 💎
-* 🎓 **Infosys Springboard Pragati (AI Track)** – Cohort 4 Graduate
-* 🌱 **SproutGrowAgent Project** – Shortlisted at **Google Cloud Agentic AI Day 2025**
-* 🚀 **Google Gen AI Exchange Program 2025** – Completed all tasks on Prompt Design, Vertex AI, and Gemini App Development
-* 🧩 Attended **Google Cloud AI Labs Bengaluru** – Hands-on workshop on AI agent building with Google ADK
-* 💻 **Contributor @ GSSoC ’25 (GirlScript Summer of Code)** – Building beginner-friendly AI/NLP tools
-* 👩‍💻 **Founder of SheCodesHerWay** – A women-in-tech initiative with flagship program *Sangini Udaan*
+Through my projects — like SproutGrowAgent (shortlisted for Google Cloud Agentic AI Day 2025), WanderWise AI, and PalAI — I’ve gained hands-on experience in creating AI-driven, cloud-native applications that combine voice, vision, and context to solve real-world problems.
 
----
+My passion also extends to open-source collaboration and community learning. As a contributor at GSSoC ’25 (GirlScript Summer of Code) and founder of SheCodesHerWay, I actively support women in tech and mentor developers exploring AI.
 
-## 🛠️ Featured Projects
+My vision is clear:
 
-### 🌱 SproutGrowAgent – Multimodal AI Agent for Farmers
+“To become an AI Engineer shaping the next generation of agentic, intelligent, and responsible AI systems — powered by Google Cloud and built for human impact.”
 
-* Features: Crop disease detection, mandi price checker, government scheme Q&A, voice-based interaction
-* Stack: Vertex AI Vision, Gemini Pro, Firebase Functions, Firestore, React, Render
-* Impact: Real-time AI-powered farming insights
+🚀 What I Do
 
-### ✈️ WanderWise AI – Agentic AI Travel Assistant
+Build AI Agents using Google ADK, Agent Builder, and Gemini Pro
 
-* Features: Dynamic itineraries, multilingual voice-first booking, budget optimization (BigQuery), EMT API integration
-* Stack: Gemini Pro, Agent Builder, Vertex AI (STT/TTS), Google Maps API, Firebase Functions, React (Vite + Tailwind), Firestore
-* Impact: Smarter, AI-driven travel planning with one-click booking
+Integrate multimodal intelligence (Vision, Voice, Text) in real applications
 
-### 📚 PalAI – Personal AI Learning Assistant Chatbot
+Design full-stack, cloud-native apps with Firebase, React, and Firestore
 
-* Features: Interactive Q&A chatbot for learners
-* Stack: Python, Flask, HTML/CSS/JS, Gemini API
+Use AI-assisted development tools like Gemini Code Assist and GitHub Copilot
 
----
+Contribute to open-source projects under GSSoC’25 and other community programs
 
-## 🌟 Future Aspirations
+🌱 Projects that Define My Journey
 
-* Grow as an **open-source contributor** through platforms like **GSSoC** and **GSoC**
-* Build **beginner-friendly AI/NLP projects** that create **real-world impact**
-* Collaborate with **global mentors and AI communities** to strengthen the open-source ecosystem
+🧠 SproutGrowAgent — Multimodal AI Agent for Farmers
+Shortlisted for Google Cloud Agentic AI Day 2025, this system diagnoses crop issues, checks mandi prices, and answers government scheme queries using Gemini + Vertex AI Voice models.
 
----
+🌍 WanderWise AI — Agentic AI Travel Assistant
+Developed for Google Gen AI Exchange Hackathon 2025, WanderWise crafts dynamic itineraries, supports multilingual booking, and integrates real-time budget optimization with BigQuery and Google Maps API.
 
+🤖 PalAI — Personal AI Learning Assistant Chatbot
+An interactive chatbot for learners powered by Gemini API, Flask backend, and Firebase hosting.
+
+🧩 Technical Stack
+
+Languages: Python, SQL
+
+AI & Cloud Tools: Vertex AI, Gemini API/CLI, Google AI Studio, Firebase AI Studio
+
+Frameworks: Google ADK, Agent Builder, A2A Orchestration
+
+Frontend/Backend: React (Vite + Tailwind), Firebase Functions, Firestore, Flask
+
+Dev Tools: VS Code, Jupyter Notebook, Render, GitHub
+
+AI Assistants: Gemini Code Assist, GitHub Copilot, ChatGPT
+
+🏆 Achievements & Recognition
+
+🥇 Google Cloud Arcade Legend (Diamond League) – 1st Place in Google Cloud Facilitator Program
+
+🌾 SproutGrowAgent shortlisted for Agentic AI Day 2025 (Hack2Skill)
+
+💡 Gen AI Exchange Hackathon Participant – WanderWise AI Project
+
+🧠 Google Cloud AI Labs, Bengaluru – Invite-only workshop on Agent Development Kit
+
+👩‍💻 Contributor @ GSSoC '25 – GirlScript Summer of Code
+
+🌸 Founder, SheCodesHerWay — empowering women in tech under Sangini Udaan
+
+🎓 Education
+
+Master of Computer Applications (MCA) – Berhampur University, 74% (2009)
+
+B.A. Mathematics (Hons) – Khalikote (Auto) College, 60% (2006)
+
+💬 Personal Vision
+
+“I believe the next era of software will be agentic, assistive, and human-first — powered by AI that listens, learns, and acts responsibly.
+My mission is to contribute to that future — one intelligent agent at a time.”
 ## 🤝 Contact & Collaborations
 
 Let’s connect and collaborate on meaningful AI projects:
