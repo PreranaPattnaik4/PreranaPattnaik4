@@ -11,11 +11,13 @@ I love experimenting with Vertex AI models, Gemini Pro, and Agent Builder, integ
 
 I hold certifications in:
 
-🧠 Artificial Intelligence Foundation – Infosys Springboard
+Fundamentals of Building AI Agents – IBM (Coursera)
+Python for Data Science, AI & Development - IBM
+Data Structures & Algorithms in Python: Fundamental Data Structures – Infosys Springboard 
+Introduction to Software Engineering – IBM
+Artificial Intelligence Foundation Certification – Infosys Springboard
+Solving Problems with Creative and Critical Thinking – IBM
 
-🧩 Build Intelligent Agents with ADK – Google Cloud Skills Boost
-
-🔄 Deploy Multi-Agent Systems with ADK & Agent Engine – Google Cloud Skills Boost
 
 Through my projects — like SproutGrowAgent (shortlisted for Google Cloud Agentic AI Day 2025), WanderWise AI, and PalAI — I’ve gained hands-on experience in creating AI-driven, cloud-native applications that combine voice, vision, and context to solve real-world problems.
 
