@@ -1,102 +1,127 @@
 Prerana Kailash Pattnaik
 
-AI Engineer | Specializing in Agentic AI | Vertex AI • Gemini • Google ADK
+AI Product Designer | Agentic AI • Generative AI • Product Experience
 
-Welcome to my portfolio!
-I’m Prerana Kailash Pattnaik, an aspiring AI Engineer specializing in Agentic AI — passionate about building intelligent, multimodal agents that think, speak, and act with purpose.
+I’m an AI Product Designer working at the intersection of Agentic AI, Generative AI, and human-centered product design, with hands-on experience across the Google Cloud Agentic AI stack — Google ADK, Gemini, Vertex AI, and Genkit.
 
-My focus lies in designing and deploying interactive AI systems powered by Google’s cutting-edge ecosystem — including Vertex AI, Gemini, and Google ADK (Agent Development Kit). I’m driven by the belief that the future of software will be agentic and assistive — where AI not only understands but also collaborates.
+I design AI products where user intent leads and technology follows.
 
-I love experimenting with Vertex AI models, Gemini Pro, and Agent Builder, integrating them seamlessly with Firebase AI Studio to create web-based, interactive, and human-centered AI experiences. My approach blends cloud, creativity, and code, transforming abstract ideas into AI systems that understand, respond, and act intelligently.
+🧠 AI Product Design Philosophy
 
-I hold certifications in:
+My work starts with problem discovery, not tools.
 
-Fundamentals of Building AI Agents – IBM (Coursera)
-Python for Data Science, AI & Development - IBM
-Data Structures & Algorithms in Python: Fundamental Data Structures – Infosys Springboard 
-Introduction to Software Engineering – IBM
-Artificial Intelligence Foundation Certification – Infosys Springboard
-Solving Problems with Creative and Critical Thinking – IBM
+I focus on:
 
+Understanding who the user is
 
-Through my projects — like SproutGrowAgent (shortlisted for Google Cloud Agentic AI Day 2025), WanderWise AI, and PalAI — I’ve gained hands-on experience in creating AI-driven, cloud-native applications that combine voice, vision, and context to solve real-world problems.
+What decision or task they’re trying to complete
 
-My passion also extends to open-source collaboration and community learning. As a contributor at GSSoC ’25 (GirlScript Summer of Code) and founder of SheCodesHerWay, I actively support women in tech and mentor developers exploring AI.
+Where AI can meaningfully assist, not over-automate
 
-My vision is clear:
+Early in the design process, I define:
 
-“To become an AI Engineer shaping the next generation of agentic, intelligent, and responsible AI systems — powered by Google Cloud and built for human impact.”
+The AI’s role, scope, and boundaries
 
-🚀 What I Do
+Failure behavior & fallback paths
 
-Build AI Agents using Google ADK, Agent Builder, and Gemini Pro
+Human-in-the-loop checkpoints
 
-Integrate multimodal intelligence (Vision, Voice, Text) in real applications
+Confidence signals and explainability
 
-Design full-stack, cloud-native apps with Firebase, React, and Firestore
+My goal is to make complex agentic systems feel intuitive, trustworthy, and usable, even for non-technical users.
 
-Use AI-assisted development tools like Gemini Code Assist and GitHub Copilot
+💡 AI Product Development & Prototyping
 
-Contribute to open-source projects under GSSoC’25 and other community programs
+I follow a Vibe Coding workflow to turn ideas into working AI products using:
 
-🌱 Projects that Define My Journey
+Google AI Studio & Firebase AI Studio
 
-🧠 SproutGrowAgent — Multimodal AI Agent for Farmers
-Shortlisted for Google Cloud Agentic AI Day 2025, this system diagnoses crop issues, checks mandi prices, and answers government scheme queries using Gemini + Vertex AI Voice models.
+Google Antigravity
 
-🌍 WanderWise AI — Agentic AI Travel Assistant
-Developed for Google Gen AI Exchange Hackathon 2025, WanderWise crafts dynamic itineraries, supports multilingual booking, and integrates real-time budget optimization with BigQuery and Google Maps API.
+AI-assisted tools like Gemini, ChatGPT, and GitHub Copilot
 
-🤖 PalAI — Personal AI Learning Assistant Chatbot
-An interactive chatbot for learners powered by Gemini API, Flask backend, and Firebase hosting.
+This enables rapid:
 
-🧩 Technical Stack
+End-to-end AI product prototyping
 
-Languages: Python, SQL
+MVP validation of AI-driven user experiences
 
-AI & Cloud Tools: Vertex AI, Gemini API/CLI, Google AI Studio, Firebase AI Studio
+Iteration from concept → demo-ready product
 
-Frameworks: Google ADK, Agent Builder, A2A Orchestration
+📌 Featured Project
+🌱 SproutGrowAgent — Agentic AI for Agriculture
 
-Frontend/Backend: React (Vite + Tailwind), Firebase Functions, Firestore, Flask
+Shortlisted – Google Cloud Agentic AI Day 2025
 
-Dev Tools: VS Code, Jupyter Notebook, Render, GitHub
+An end-to-end agentic AI product providing:
 
-AI Assistants: Gemini Code Assist, GitHub Copilot, ChatGPT
+Crop disease diagnosis (vision-based)
 
-🏆 Achievements & Recognition
+Multimodal voice + text assistance
 
-🥇 Google Cloud Arcade Legend (Diamond League) – 1st Place in Google Cloud Facilitator Program
+Localized agricultural insights
 
-🌾 SproutGrowAgent shortlisted for Agentic AI Day 2025 (Hack2Skill)
+Intelligent crop planning support
 
-💡 Gen AI Exchange Hackathon Participant – WanderWise AI Project
+Designed to make advanced AI accessible through simple, explainable interactions.
 
-🧠 Google Cloud AI Labs, Bengaluru – Invite-only workshop on Agent Development Kit
+🚀 Selected Projects
 
-👩‍💻 Contributor @ GSSoC '25 – GirlScript Summer of Code
+WanderWise AI — Agentic AI travel assistant (Gen AI Exchange Hackathon 2025)
 
-🌸 Founder, SheCodesHerWay — empowering women in tech under Sangini Udaan
+PalAI — Personal AI learning assistant chatbot
 
-🎓 Education
+SproutGrowAgent — Multimodal agent for farmers (Agentic AI Day shortlist)
 
-Master of Computer Applications (MCA) – Berhampur University, 74% (2009)
+🧩 Tech Stack
 
-B.A. Mathematics (Hons) – Khalikote (Auto) College, 60% (2006)
+Languages
+Python, SQL
 
-💬 Personal Vision
+AI & Cloud
+Vertex AI, Gemini API, Google AI Studio, Firebase AI Studio
 
-“I believe the next era of software will be agentic, assistive, and human-first — powered by AI that listens, learns, and acts responsibly.
-My mission is to contribute to that future — one intelligent agent at a time.”
-## 🤝 Contact & Collaborations
+Agent Frameworks
+Google ADK, Genkit, Agent Builder
 
-Let’s connect and collaborate on meaningful AI projects:
+Frontend / Backend
+React, Firebase Functions, Firestore, Flask
 
-* 📧 Email: [preranapattnaik4@gmail.com](mailto:preranapattnaik4@gmail.com)
-* 🌐 Website: [simplifiedcomputerscience.com](https://simplifiedcomputerscience.com)
-* 💼 LinkedIn: [linkedin.com/in/prerana-pattnaik](https://www.linkedin.com/in/prerana-pattnaik/)
-* 💻 GitHub: [github.com/PreranaPattnaik4](https://github.com/PreranaPattnaik4)
+Dev & AI Assist Tools
+VS Code, GitHub, Gemini Code Assist, GitHub Copilot, ChatGPT
 
+🏆 Highlights & Recognition
 
-> 🚀 Always open to building **AI-powered, community-focused solutions**. Let’s grow together in tech!
+Shortlisted – Google Cloud Agentic AI Day 2025 (SproutGrowAgent)
 
+Shortlisted – SuperHack 2025 (Prototype Phase) — Nexus AI
+
+Google Cloud Arcade Legend — Diamond League (1st Place)
+
+Invite-only Google Cloud AI Labs, Bengaluru — Agent Development with Google ADK
+
+Google for Startups – Startup School: Prompt to Prototype (Selected)
+
+Contributor – GirlScript Summer of Code (GSSoC ’25)
+
+Founder – SheCodesHerWay (Women in Tech initiative)
+
+🎯 Career Direction
+
+Short term:
+AI Product Manager — owning discovery, design, and delivery of agentic & generative AI products.
+
+Long term:
+Agentic AI Engineer building scalable multi-agent systems on Google Cloud, and Google Developer Expert (GDE) in AI.
+
+🤝 Connect & Collaborate
+
+📧 Email: preranapattnaik4@gmail.com
+
+🌐 Website: https://simplifiedcomputerscience.com
+
+💼 LinkedIn: https://www.linkedin.com/in/prerana-pattnaik/
+
+💻 GitHub: https://github.com/PreranaPattnaik4
+
+🚀 Always open to building trustworthy, human-first AI products.
