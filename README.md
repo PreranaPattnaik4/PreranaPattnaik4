@@ -1,6 +1,6 @@
 Prerana Kailash Pattnaik
 
-AI Product Designer | Agentic AI • Generative AI • Product Experience
+Aspiring AI Product Manager | Building Agentic & GenAI Products | Google ADK Expert | Product Experience
 
 I’m an AI Product Designer working at the intersection of Agentic AI, Generative AI, and human-centered product design, with hands-on experience across the Google Cloud Agentic AI stack — Google ADK, Gemini, Vertex AI, and Genkit.
 
